@@ -1,6 +1,5 @@
 import os
 from utils.mcap_read import *
-from utils.visualization import *
 
 
 # TOPICS 
